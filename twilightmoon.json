@@ -1,3 +1,7 @@
 {
-  "tm_lib": { "version": "0.4.0", "security": "0.4.0" }
+  "tm_lib": { "version": "0.4.0", "security": "0.4.0" },
+  "tm_sound": { "version": "0.1.0", "security": "0.1.0" },
+  "tm_music": { "version": "0.1.0", "security": "0.1.0" },
+  "tm_api": { "version": "1.1.0", "security": "1.1.0" },
+  "tm_cache": { "version": "0.1.0", "security": "0.1.0" }
 }
