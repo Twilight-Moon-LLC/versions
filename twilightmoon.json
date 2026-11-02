@@ -3,5 +3,12 @@
   "tm_sound": { "version": "0.1.0", "security": "0.1.0" },
   "tm_music": { "version": "0.1.0", "security": "0.1.0" },
   "tm_api": { "version": "1.1.0", "security": "1.1.0" },
-  "tm_cache": { "version": "0.1.0", "security": "0.1.0" }
+  "tm_cache": { "version": "0.1.0", "security": "0.1.0" },
+  "tm_kitchen": { "version": "0.8.2", "security": "0.1.0" },
+  "tm_placeables": { "version": "0.2.0", "security": "0.1.0" },
+  "tm_farming": { "version": "0.1.0", "security": "0.1.0" },
+  "tm_worldui": { "version": "0.1.0", "security": "0.1.0" },
+  "tm_scenes": { "version": "0.1.0", "security": "0.1.0" },
+  "tm_chat": { "version": "0.1.0", "security": "0.1.0" },
+  "tm_food_props": { "version": "0.1.0", "security": "0.1.0" }
 }
