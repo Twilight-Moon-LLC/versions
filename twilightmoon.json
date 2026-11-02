@@ -10,5 +10,7 @@
   "tm_worldui": { "version": "0.1.0", "security": "0.1.0" },
   "tm_scenes": { "version": "0.1.0", "security": "0.1.0" },
   "tm_chat": { "version": "0.1.0", "security": "0.1.0" },
-  "tm_food_props": { "version": "0.1.0", "security": "0.1.0" }
+  "tm_kitchen_props": { "version": "0.1.0", "security": "0.1.0" },
+  "tm_farm_props": { "version": "0.1.0", "security": "0.1.0" },
+  "tm_interact": { "version": "0.1.0", "security": "0.1.0" }
 }
